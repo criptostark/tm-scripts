@@ -4,7 +4,7 @@
 // @version      1.1
 // @description  try to take over the world! (with kittens)
 // @author       Yuhau Lin
-// @match        http://bloodrizer.ru/games/kittens/
+// @match        http://kittensgame.com/web/#
 // @grant        none
 // ==/UserScript==
 
